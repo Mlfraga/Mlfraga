@@ -1,6 +1,6 @@
 # Hi there, I'm Matheus Fraga 👋
 
-I'm a Full Stack Developer with 3 years of experience, specializing in technologies such as Node, NestJS, React and React Native. I have a strong passion for technology and a drive to create innovative solutions, which has led me to work on big scale projects, honing my skills and developing a deep understanding of full stack development.
+I'm a Full Stack Developer with 4 years of experience, specializing in technologies such as Node, NestJS, React and React Native. I have a strong passion for technology and a drive to create innovative solutions, which has led me to work on big scale projects, honing my skills and developing a deep understanding of full stack development.
 
 ## Skills
 - React, React Native, Node.js, NestJS, .NET, Java, Docker
