@@ -1,7 +1,7 @@
 
 # Hi there, I'm Matheus Fraga 👋  
 
-I'm a **Senior Full Stack Developer** with over 4 years of experience, passionate about building scalable and innovative solutions. My expertise spans across frontend, backend, and cloud technologies, allowing me to deliver robust and efficient applications. I've worked on large-scale projects across various industries, sharpening my skills and contributing to impactful software solutions.  
+I'm a **Full Stack Developer** with over 4 years of experience, passionate about building scalable and innovative solutions. My expertise spans across frontend, backend, and cloud technologies, allowing me to deliver robust and efficient applications. I've worked on large-scale projects across various industries, sharpening my skills and contributing to impactful software solutions.  
 
 ---
 
