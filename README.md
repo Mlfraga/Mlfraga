@@ -1,7 +1,7 @@
 
 # Hi there, I'm Matheus Fraga 👋  
 
-**Senior Full Stack Developer** with 4+ years of experience in **React**, **Node.js**, **.NET**, and **Azure**. Passionate about building scalable and innovative solutions.
+**Full Stack Developer** with 4+ years of experience in **React**, **Node.js**, **.NET**, and **Azure**. Passionate about building scalable and innovative solutions.
 
 ---
 
