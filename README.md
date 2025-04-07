@@ -16,4 +16,5 @@
 ## 💬 **Get in Touch**  
 - 🌐 [Website](https://mlfraga.dev)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/matheus-fraga-257628178/)  
+- ✖️ [X](https://x.com/FragaSlk)  
 - 📧 matheuslf44@gmail.com  
